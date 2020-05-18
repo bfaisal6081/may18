@@ -1,0 +1,10 @@
+@media screen and (max-width: 1240px){
+  .row{
+    width: 100%;
+  }
+}
+@media screen and (max-width: 980px){
+  h1, h2{
+    font-size: 300%;
+  }
+}
